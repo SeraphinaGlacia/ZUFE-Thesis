@@ -18,3 +18,4 @@
 *.run.xml
 *.pdf
 *.synctex.gz
+.DS_Store
