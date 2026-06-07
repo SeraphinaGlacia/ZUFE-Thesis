@@ -1,0 +1,17 @@
+ZUFE Thesis Typesetter
+Copyright (C) 2026 Xinlei Zhou
+
+The zufe-thesis-typesetter/ directory contains the Agent Skill, helper scripts,
+workflow references, tests, and metadata examples. Unless a file states
+otherwise, this Skill package is licensed under the GNU Affero General Public
+License version 3 only. See LICENSE.
+
+This project is an independent, non-official auxiliary tool for the
+ZUFE-Thesis LaTeX template. It does not relicense ZUFE-Thesis itself.
+
+ZUFE-Thesis template files remain under their original MIT License:
+Copyright (c) 2022 Qing Shi.
+
+The Skill is designed to run inside a user-provided ZUFE-Thesis template copy.
+Generated thesis content, user-provided Word documents, and the user's final
+PDF are not claimed by this Skill package merely because the tool was used.
