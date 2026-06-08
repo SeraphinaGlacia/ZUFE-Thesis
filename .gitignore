@@ -19,3 +19,5 @@
 *.pdf
 *.synctex.gz
 .DS_Store
+skills-lock.json
+.agents/
